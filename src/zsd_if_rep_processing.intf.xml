@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_INTF" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOINTERF>
+    <CLSNAME>ZSD_IF_REP_PROCESSING</CLSNAME>
+    <VERSION>1</VERSION>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Reports Processing</DESCRIPT>
+    <EXPOSURE>2</EXPOSURE>
+    <STATE>1</STATE>
+    <UNICODE>X</UNICODE>
+   </VSEOINTERF>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZSD_IF_REP_PROCESSING</CLSNAME>
+     <CMPNAME>COST</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Cost</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZSD_IF_REP_PROCESSING</CLSNAME>
+     <CMPNAME>CURRENCY_CONVERSATION</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Currency Conversion</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZSD_IF_REP_PROCESSING</CLSNAME>
+     <CMPNAME>CUSTOMER_INFORMATION</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Customer Information</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZSD_IF_REP_PROCESSING</CLSNAME>
+     <CMPNAME>FACTORY_NETWR</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Factory Net Value</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZSD_IF_REP_PROCESSING</CLSNAME>
+     <CMPNAME>MISCELLANEOUS</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Miscellaneous</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZSD_IF_REP_PROCESSING</CLSNAME>
+     <CMPNAME>PROCESSING</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Processing</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
